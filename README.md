@@ -6,10 +6,6 @@ Red Social avocada a reducir la brecha educativa, conectado a personas que quier
 ## Desarrollado para
  [Laboratoria](http://laboratoria.la)
 
-# Teach & Learn
-
-Red Social avocada a reducir la brecha educativa, conectado a personas que quieran aprender con personas que deseen enseñar.
-
 ## Objetivo
 Crear una red social.
 
