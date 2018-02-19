@@ -11,7 +11,7 @@ $(document).ready(function() {
     authDomain: 'teachandlearn-d4eb8.firebaseapp.com',
     databaseURL: 'https://teachandlearn-d4eb8.firebaseio.com',
     projectId: 'teachandlearn-d4eb8',
-    storageBucket: '',
+    storageBucket: 'teachandlearn-d4eb8.appspot.com',
     messagingSenderId: '13064064731'
   };
   firebase.initializeApp(config);
@@ -63,7 +63,7 @@ $(document).ready(function() {
       saveData(result.user);
     });
   });
-  
+
   // Función para guardar datos de los usuarios
   function saveData(user) {
     var users = {
