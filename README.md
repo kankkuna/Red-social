@@ -2,7 +2,8 @@
 
 Red Social avocada a reducir la brecha educativa, conectado a personas que quieran aprender con personas que deseen enseñar.
 
-![teachandlearn](https://user-images.githubusercontent.com/32303418/36363247-77df7026-1509-11e8-9168-1115046b5805.png)
+![teachandlearn](https://user-images.githubusercontent.com/32303418/36364015-6d46494a-150f-11e8-90fd-906aa94a0941.jpg)
+
 
 ###### Desarrollado para [Laboratoria](http://laboratoria.la)
 
