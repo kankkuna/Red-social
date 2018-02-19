@@ -1,3 +1,12 @@
+# Teach & Learn
+
+Red Social avocada a reducir la brecha educativa, conectado a personas que quieran aprender con personas que deseen enseñar.
+
+![teachandlearn](https://user-images.githubusercontent.com/32303418/36363247-77df7026-1509-11e8-9168-1115046b5805.png)
+
+###### Desarrollado para [Laboratoria](http://laboratoria.la)
+
+
 # Reto de Código - Red Social: Teach&Learn
 
 * **Track:** _Common Core_
