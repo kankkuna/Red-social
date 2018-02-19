@@ -7,7 +7,7 @@ Red Social avocada a reducir la brecha educativa, conectado a personas que quier
 ###### Desarrollado para [Laboratoria](http://laboratoria.la)
 
 
-# Reto de Código - Red Social: Teach&Learn
+# Red Social: Teach&Learn
 
 * **Track:** _Common Core_
 * **Curso:** _Crea tu propia red social_
