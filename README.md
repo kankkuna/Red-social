@@ -1,20 +1,14 @@
 # Teach & Learn
-
 Red Social avocada a reducir la brecha educativa, conectado a personas que quieran aprender con personas que deseen enseñar.
 
 ![teachandlearn](https://user-images.githubusercontent.com/32303418/36364015-6d46494a-150f-11e8-90fd-906aa94a0941.jpg)
 
+## Desarrollado para
+ [Laboratoria](http://laboratoria.la)
 
-###### Desarrollado para [Laboratoria](http://laboratoria.la)
+# Teach & Learn
 
-
-# Red Social: Teach&Learn
-
-* **Track:** _Common Core_
-* **Curso:** _Crea tu propia red social_
-* **Unidad:** _Crea tu propia red social_
-
-***
+Red Social avocada a reducir la brecha educativa, conectado a personas que quieran aprender con personas que deseen enseñar.
 
 ## Objetivo
 Crear una red social.
