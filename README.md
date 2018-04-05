@@ -6,6 +6,7 @@ Red Social avocada a reducir la brecha educativa, conectado a personas que quier
 ## Desarrollado para
  [Laboratoria](http://laboratoria.la)
 
+
 ## Objetivo
 Crear una red social.
 
